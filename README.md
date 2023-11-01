@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Jatin Thakur,
 - 👀 I’m interested in everything related to creation and design,
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently working on improving and expanding my Web Development and problem solving skills.
 
 <!---
 Jatin-Th/Jatin-Th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
